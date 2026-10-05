@@ -1,0 +1,8 @@
+{
+  "name": "CCAA Class Tracker",
+  "description": "Aplicativo para professores do CCAA acompanharem e registrarem aulas, presenças e planejamento de turmas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
